@@ -1,0 +1,45 @@
+
+.tarea {
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.completada {
+    text-decoration: line-through;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+#listaTareas {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.tarea .delete-btn {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.tarea input[type="checkbox"] {
+    transform: scale(1.5);
+    margin-right: 8px;
+}
+
+.resumen-borde {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
